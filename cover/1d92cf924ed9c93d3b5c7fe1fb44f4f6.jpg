@@ -1,0 +1,36 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "st";
+    src: local("st"), local("宋体"), local("DK-SONGTI"), local("STSongti"), local("STSong"), local("Song S")
+    }
+@font-face {
+    font-family: "kt";
+    src: local("kt"), local("楷体"), local("DK-KAITI"), local("STKaiti"), local("STKai"), local("MKai PRC")
+    }
+@font-face {
+    font-family: "ht";
+    src: local("DK-XIHEITI"), url(FONT00005.ttf), local("ht"), local("黑体"), local("微软雅黑"), local("STHeiti"), local("STHei"), local("MYing Hei S")
+    }
+@font-face {
+    font-family: "fs";
+    src: local("DK-FANGSONG"), url(FONT00006.ttf), local("fs"), local("仿宋"), local("STKaiti"), local("STKai"), local("MKai PRC")
+    }
+@font-face {
+    font-family: "h2";
+    src: local("DK-XIAOBIAOSONG"), url(FONT00008.ttf), local("h2"), local("方正大标宋_GBK"), local("方正大标宋简体"), local("方正大标宋繁体"), local("STHeiti"), local("STHei"), local("MYing Hei S")
+    }
+@font-face {
+    font-family: "h3";
+    src: local("DK-XIAOBIAOSONG"), url(FONT00007.ttf), local("h3"), local("方正大标宋_GBK"), local("方正大标宋简体"), local("方正大标宋繁体"), local("STHeiti"), local("STHei"), local("MYing Hei S")
+    }
+@font-face {
+    font-family: "font";
+    src: url(OEBPS/Fonts/font.ttf), local("font")
+    }
+@font-face {
+    font-family: "ew";
+    src: url(OEBPS/Fonts/russia.ttf)
+    }
